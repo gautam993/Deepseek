@@ -7,7 +7,7 @@ import Logo from '../../assets/logo_smalll.png'
 import Sidebar from "./Component/Sidebar";
 import PromptBox from "./Component/Promptbox";
 import Message from "./Component/Message";
-// test change
+// test changem
 
 export default function Home() {
   const [expand,setexpand] = useState(false)
